@@ -12,7 +12,11 @@
 
 # 代码简介
 网络关键部分代码实现包含在该repo的文件中。实例化相应的类即可获得实例。
- extractor: QNN siamese U-Net (fingerprint extractor)
- ResNet: QNN ResNet
- loss: siamese loss
- mydata: an example of dataloader
+
+extractor: QNN siamese U-Net (fingerprint extractor)
+
+ResNet: QNN ResNet
+
+loss: siamese loss
+
+mydata: an example of dataloader
